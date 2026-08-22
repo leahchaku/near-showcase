@@ -11,9 +11,9 @@ Currently running as a live pilot at Stanford.
 <p align="center">
   <img src="docs/screenshot_2.png" alt="Near onboarding screen" width="220"/>
   &nbsp;&nbsp;
-  <img src="docs/screenshot_3.png" alt="Near discovery feed, waiting state" width="220"/>
+  <img src="docs/screenshot_3.png" alt="Near discovery feed, nearby matches" width="220"/>
   &nbsp;&nbsp;
-  <img src="docs/screenshot_4.png" alt="Near profile screen" width="220"/>
+  <img src="docs/screenshot_4.png" alt="Near chat screen" width="220"/>
 </p>
 
 ---
