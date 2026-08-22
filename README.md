@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/logo.png" alt="Near logo" width="120"/>
+</p>
+
 # Near
 
 **Proximity-based dating for Stanford students. No swiping. No pre-meeting chat. Just real people, in the same place, at the same time.**
