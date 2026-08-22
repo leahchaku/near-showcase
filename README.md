@@ -13,8 +13,6 @@ Currently running as a live pilot at Stanford.
   &nbsp;&nbsp;
   <img src="docs/screenshot_3.png" alt="Near discovery feed, waiting state" width="220"/>
   &nbsp;&nbsp;
-  <img src="docs/screenshot_1.jpg" alt="Near discovery feed, nearby matches" width="220"/>
-  &nbsp;&nbsp;
   <img src="docs/screenshot_4.png" alt="Near profile screen" width="220"/>
 </p>
 
