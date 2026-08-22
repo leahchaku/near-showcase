@@ -8,7 +8,7 @@
 
 Near detects when two compatible people are physically near each other on campus and opens a short window for both to say yes. If they match, they pick a spot nearby and actually show up — chat only unlocks once Near confirms they're both there.
 
-Conducting a a live pilot at Stanford.
+Conducting a live pilot at Stanford.
 
 ---
 
