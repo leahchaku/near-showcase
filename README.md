@@ -66,6 +66,6 @@ No endless swiping. No texting strangers for weeks before meeting. The whole poi
 
 ## About the source
 
-Near is live with real Stanford students' accounts, photos, locations, and conversations flowing through it in production — so the source stays private rather than public, to avoid exposing the internals of how user safety, moderation, and location privacy are enforced.
+For privacy reasons, the source stays private rather than public.
 
 I'm glad to walk through the architecture and codebase directly — reach out via [leahbalakrishnan.com](https://leahbalakrishnan.com).
